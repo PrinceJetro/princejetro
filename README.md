@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on an Online Multiplayer Rock paper and scissors game<br>👯 I’m looking to collaborate on an Online Multiplayer Rock paper and scissors game<br>🌱 I’m currently learning React js and Django Python<br>💬 Ask me about anything Web related<br>
-
+🔭 I’m currently working on a CBT Web Application with Activity Logs and User Management.<br>
+👯 I’m looking to collaborate on Django Python and React.js projects that solve real-world problems.<br>
+🌱 I’m currently learning Advanced Backend Development and exploring Frontend Optimization.<br>
+💬 Ask me about building scalable web applications, Django backend, or React frontend integration.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jerex.amon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PrinceJetro123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jephthah-adegbuyi-38a76524a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PrinceJetro123) 
