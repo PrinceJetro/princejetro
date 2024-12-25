@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a CBT Web Application with Activity Logs and User Management.<br>
+🔭 I’m currently working on an EdTech Web Application with Activity Logs and User Management.<br>
 👯 I’m looking to collaborate on Django Python and React.js projects that solve real-world problems.<br>
 🌱 I’m currently learning Advanced Backend Development and exploring Frontend Optimization.<br>
 💬 Ask me about building scalable web applications, Django backend, or React frontend integration.<br>
